@@ -1,0 +1,2 @@
+class RespostaErrada(Exception):
+    pass
